@@ -24,3 +24,23 @@ if (temperature < 0) {
 }
 
 console.log("Now you're ready to go outside!");
+
+
+let age = 0
+function whichSchool {
+  if (age<13) {
+    console.log('you should go to elementary school')
+  
+  
+    
+  } else if (age>13 || age < 18) {
+    console.log('you should go to secondary school')
+  
+    
+  } else {
+  
+    console.log('you should go to lighthouse labs')
+    
+  
+}
+
